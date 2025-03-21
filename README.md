@@ -4,6 +4,4 @@
 
 <h2>&#128513; Connect with me:</h2>
 <h2>&#127881; Certifications:</h2>
-CompTIA Security+ ce Certificate(https://github.com/user-attachments/files/19379631/CompTIA.Security%2B.ce.certificate.pdf)
-
 -->
