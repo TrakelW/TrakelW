@@ -2,8 +2,7 @@
 
 <h2><p style="font-size:100px">&#128187; Cybersecurity Projects:</h2>
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/trakel-ward-jr)
-&nbsp;
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trakel-ward-jr)
 
 <h2>&#128513; Connect with me: www.linkedin.com/in/trakel-ward-jr
 <h2>&#127881; <a href="https://github.com/TrakelW/Certifications">Certifications</a>
