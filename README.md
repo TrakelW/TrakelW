@@ -6,7 +6,7 @@
 
 <p>
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/trakel-ward-jr) 
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trakel-ward-jr) 
 
     
 <h2>&#127881; <a href="https://github.com/TrakelW/Certifications">Certifications</a>
