@@ -4,7 +4,7 @@
 
 <h2>&#128513; Connect with me:
 
-&nbsp;
+
 <div id="badges">
   <a href="(https://www.linkedin.com/in/trakel-ward-jr)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> <h2>
